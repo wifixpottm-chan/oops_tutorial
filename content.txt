@@ -1,0 +1,2 @@
+Class and object (with examples)
+Class has data/attributes and func/methods
